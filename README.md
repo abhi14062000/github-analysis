@@ -1,4 +1,5 @@
 #GitHub ETL Project
+
 This project aims to demonstrate an Extract, Transform, Load (ETL) process using the GitHub API. ETL is crucial for collecting, cleaning, and storing data for effective analysis. In this project, we extract repository information from GitHub, transform it into a structured format, and load it into an SQLite database.
 
 #ETL Process Overview
